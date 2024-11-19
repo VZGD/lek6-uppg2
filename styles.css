@@ -1,14 +1,8 @@
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
-
 body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
-    color: #333;
-    background-color: #f4f4f4;
+    color: rgb(217, 212, 212);
+    background-color: #4d3232;
 }
 
 header {
@@ -21,14 +15,8 @@ header {
 nav ul {
     display: flex;
     justify-content: center;
-    list-style-type: none;
     background-color: #444;
     padding: 10px;
-}
-
-ul {
-    list-style-type: none; 
-    padding: 0;
 }
 
 li {
